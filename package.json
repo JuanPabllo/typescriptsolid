@@ -1,0 +1,24 @@
+{
+  "name": "typescriptsolid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "17.0.27",
+    "@typescript-eslint/eslint-plugin": "5.21.0",
+    "@typescript-eslint/parser": "5.21.0",
+    "eslint": "8.14.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "prettier": "^2.0.5",
+    "ts-loader": "9.2.9",
+    "ts-node": "10.7.0",
+    "typescript": "4.6.3"
+  }
+}
